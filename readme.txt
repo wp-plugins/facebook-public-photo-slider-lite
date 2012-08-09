@@ -11,7 +11,7 @@ Facebook Public Photo Slider is a photo album sharing slider plugin for wordpres
 
 == Description ==
 
-You can share any public shared facebook photo album or fanpage album using this plugin. It doesn't require any registration or app Id or anything. All you need is the url link of the album that you want to share on your wordpress site.  But cannot share albums that have limited accessibity. 
+You can share any public shared facebook photo album or fanpage album using this plugin. It doesn't require any registration or app Id or anything. All you need is the url link of the album that you want to share on your wordpress site.  But cannot share albums that have limited accessibity. For Live Demo, Please Visit [the demo page](http://binnash.com) 
 
 If you are looking for more customizable version, Please Check out Premium version at:[Binnash.com](http://www.binnash.com/)
 
